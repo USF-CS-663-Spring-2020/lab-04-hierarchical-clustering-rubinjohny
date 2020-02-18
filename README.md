@@ -1,5 +1,8 @@
 # CS663 Lab 04 - Hierarchical
 
+USF email - rjohny@dons.usfca.edu
+name - Rubin Johny
+
 Datasets for this lab are:
 
 * [USCensus1990-2000rows.data.txt](USCensus1990-2000rows.data.txt) -- a subset of US Census data
